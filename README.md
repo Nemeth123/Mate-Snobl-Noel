@@ -3,12 +3,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Github</title>
 </head>
-
 <body>
   
-    
   <h1 style="text-align: center;"> Puskás Ferenc</h1>
  <h2 style="font-size: 23px;">Életrajz</h2>
   <p1 style="font-size: 19px;">Puskás Ferenc, a magyar futball történetének egyik legnagyobb alakja, 1927. április 2-án született Kispesten, Magyarországon. Gyermekkorában már korán érdeklődést mutatott a labdarúgás iránt, és 1943-ban csatlakozott az élvonalbeli Kispesti AC (később Budapest Honvéd) csapatához, ahol először mutatkozott be a nagyközönség előtt.</p1>

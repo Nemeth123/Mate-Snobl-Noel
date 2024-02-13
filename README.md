@@ -1,1 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github</title>
+</head>
 
+<body>
+  
+    
+  <h1 style="text-align: center;"> Puskás Ferenc</h1>
+ <h2 style="font-size: 23px;">Életrajz</h2>
+  <p1 style="font-size: 19px;">Puskás Ferenc, a magyar futball történetének egyik legnagyobb alakja, 1927. április 2-án született Kispesten, Magyarországon. Gyermekkorában már korán érdeklődést mutatott a labdarúgás iránt, és 1943-ban csatlakozott az élvonalbeli Kispesti AC (később Budapest Honvéd) csapatához, ahol először mutatkozott be a nagyközönség előtt.</p1>
+  <h2 style="font-size: 23px;">Pályafutás
+   <p2 style="font-size: 19px;">
+    <ul>
+    <li>Honvéd és az Aranycsapat: Puskás pályafutása legmeghatározóbb szakasza az 1950-es évek elején kezdődött, amikor a Budapest Honvéd és a magyar válogatott tagjaként számos sikert ért el. Az Aranycsapat néven ismert csapat 1952-től 1956-ig uralkodott a nemzetközi futballszíntéren, és Puskás volt a vezéregyénisége ennek a legendás együttesnek.</li>
+    <li>Real Madrid: 1958-ban Puskás csatlakozott a Real Madridhoz, ahol a klub egyik legnagyobb ikonjává vált. Egyesíthette tehetségét olyan legendás játékosokkal, mint Di Stefano és Gento, és közösen formálták a Real Madrid aranykorát az 1950-es évek végén és az 1960-as évek elején. A csapattal összesen háromszor nyerte meg az Európai Kupát (ma a Bajnokok Ligája), és Puskás volt az egyik legnagyobb góllövőjük.</li>
+    <li>Nemzetközi karrier: Puskás nemcsak klubszinten, hanem a nemzetközi porondon is rendkívüli teljesítményt nyújtott. A magyar válogatottban 85 mérkőzésen játszott és 84 gólt szerzett. Emlékezetes góljaival, például a Berni csoda góljával beírta magát a futball történelemkönyvébe.</li>
+    </ul>
+    <img src="puskas_ferenc.jpg" width="200" height="200"  style="float: right;" >
+    <h3 style="font-size: 23px;">Örökség</h3>
+    <p3 style="font-size: 19px;">Puskás Ferenc nemcsak a pályán, hanem azon kívül is legendás alak maradt. Neve összeforrt a futballal, és az egyik legismertebb magyar sportolóvá vált. Az ő nevét viseli a Puskás Ferenc Stadion Budapesten, valamint számos más sportlétesítmény világszerte. Emellett számos elismerésben részesült életében, beleértve a FIFA-aranycsapat tagjainak kiválasztását is.    </p3>
+  <h4 style="font-size: 23px;">Statisztikák</h4>
+<p4>
+    <ul>
+    <li>Klubkarrier: Puskás 529 mérkőzésen játszott klubcsapataiban és 622 gólt szerzett.</li>
+    <li>Válogatott: A magyar válogatottban 85 alkalommal lépett pályára és 84 gólt szerzett.</li>
+    <li>íjak: Puskás háromszor nyerte el az aranylabdát, a futball legprestiżsesebb egyéni díját, és számos más elismerésben részesült pályafutása során.</li>
+    </ul>
+    <h6 style="font-size: 23px;">Gyermekkor, Kispesti AC</h6>
+    <p5>Puskás Ferenc apai ágon szegény sváb származású családba született Purczeld Ferenc néven (a dokumentumok szerint április 1-jén, az Uzsoki utcai kórházban, azonban az esetleges április 1-jei tréfák elkerülése végett a születésnapját április 2-án ünnepelte).
+
+      Édesapja, id. Puskás Ferenc (1903–1952) a Kispest FC játékosa volt, majd a Kispesti AC és jogutódja, a Budapesti Honvéd edzőjeként dolgozott. Édesanyja Bíró Margit (1904–1976) varrónő volt. A család 1937-ben magyarosította nevét Purczeldről Puskásra. A családban az anya és a gyerekek már nem beszéltek németül. Korai éveit egy kispesti házban töltötte, 32 felnőtt és 132 gyermek társaságában.
+      
+      Tehetséges labdarúgó volt, már gyerekkorától kezdve remekül futballozott. Pénz hiányában ekkor még általában rongyokból készített labdával játszott a közeli grundon, ahol társaival napi tíz órát is eltöltött. Legjobb barátja, későbbi csapattársa, a szomszédban lakó Bozsik József („Bozsik Cucu”) volt. A másfél évvel idősebb „Cucut” tizenkét éves korában, az akkori szabályok szerinti korhatárt elérve, leigazolta a Kispesti AC kölyökcsapata. Puskás ezt látva addig könyörgött a klub intézőjének, hogy hamis igazolással, Kovács Miklós néven bevette őt is a csapatba. Édesapja mindkettejüket nagyon tehetségesnek találta, és igyekezett csiszolni a játékukon.
+      
+      Puskás már 16 évesen bekerült a kispesti felnőttgárdába. A csapat tagjaként 1943 őszén játszott legelőször, miután egy influenzajárvány miatt több játékosnak is távol kellett maradnia a nagyváradi NAC elleni mérkőzéstől. Ekkortájt kezdték idősebb játékostársai „Puskás Öcsinek” szólítani, és ebből az időszakból származik a „Sváb” becenév is.</p5>
+    <h5 style="font-size: 23px;">Emlékezet</h5>
+    <p4 style="font-size: 19px;">Puskás Ferenc 2006-ban, 79 éves korában hunyt el, de öröksége és emlékei tovább élnek a futball rajongóinak szívében. Mind a mai napig tisztelettel emlékeznek rá, és az Aranycsapat emléke mindörökké fennmarad a magyar futball és a sporttörténelem egyik legfényesebb fejezeteként.</p4>
+      <h6><a href="https://hu.wikipedia.org/wiki/Kezd%C5%91lap">Forrás: Wikipédia</a></h6>

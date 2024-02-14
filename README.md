@@ -38,5 +38,3 @@
     <h5 style="font-size: 23px;">Emlékezet</h5>
     <p4 style="font-size: 19px;">Puskás Ferenc 2006-ban, 79 éves korában hunyt el, de öröksége és emlékei tovább élnek a futball rajongóinak szívében. Mind a mai napig tisztelettel emlékeznek rá, és az Aranycsapat emléke mindörökké fennmarad a magyar futball és a sporttörténelem egyik legfényesebb fejezeteként.</p4>
       <h6><a href="https://hu.wikipedia.org/wiki/Kezd%C5%91lap">Forrás: Wikipédia</a></h6>
-</body>
-</html>

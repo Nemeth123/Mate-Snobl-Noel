@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,19 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-
 <body>
   
-    
   <h1 style="text-align: center;"> Puskás Ferenc</h1>
  <h2 style="font-size: 23px;">Életrajz</h2>
   <p1 style="font-size: 19px;">Puskás Ferenc, a magyar futball történetének egyik legnagyobb alakja, 1927. április 2-án született Kispesten, Magyarországon. Gyermekkorában már korán érdeklődést mutatott a labdarúgás iránt, és 1943-ban csatlakozott az élvonalbeli Kispesti AC (később Budapest Honvéd) csapatához, ahol először mutatkozott be a nagyközönség előtt.</p1>
-  <h2 style="font-size: 23px;">Pályafutás</h3>
+  <h2 style="font-size: 23px;">Pályafutás
    <p2 style="font-size: 19px;">
     <ul>
     <li><img src="honved.jpg" width="120" height="120"  style="float: right;" >Honvéd és az Aranycsapat: Puskás pályafutása legmeghatározóbb szakasza az 1950-es évek elején kezdődött, amikor a Budapest Honvéd és a magyar válogatott tagjaként számos sikert ért el. Az Aranycsapat néven ismert csapat 1952-től 1956-ig uralkodott a nemzetközi futballszíntéren, és Puskás volt a vezéregyénisége ennek a legendás együttesnek.</li>
     <img src="real-madrid.webp" width="120" height="120"  style="float: left;" ><li>Real Madrid: 1958-ban Puskás csatlakozott a Real Madridhoz, ahol a klub egyik legnagyobb ikonjává vált. Egyesíthette tehetségét olyan legendás játékosokkal, mint Di Stefano és Gento, és közösen formálták a Real Madrid aranykorát az 1950-es évek végén és az 1960-as évek elején. A csapattal összesen háromszor nyerte meg az Európai Kupát (ma a Bajnokok Ligája), és Puskás volt az egyik legnagyobb góllövőjük.</li>
-    <li>Nemzetközi karrier: Puskás nemcsak klubszinten, hanem a nemzetközi porondon is rendkívüli teljesítményt nyújtott. A magyar válogatottban 85 mérkőzésen játszott és 84 gólt szerzett. Emlékezetes góljaival, például a Berni csoda góljával beírta magát a futball történelemkönyvébe.</p2></li>
+    <li>Nemzetközi karrier: Puskás nemcsak klubszinten, hanem a nemzetközi porondon is rendkívüli teljesítményt nyújtott. A magyar válogatottban 85 mérkőzésen játszott és 84 gólt szerzett. Emlékezetes góljaival, például a Berni csoda góljával beírta magát a futball történelemkönyvébe.</li>
     </ul>
     <img src="puskas_ferenc.jpg" width="200" height="200"  style="float: right;" >
     <h3 style="font-size: 23px;">Örökség</h3>
@@ -28,7 +25,7 @@
     <ul>
     <li>Klubkarrier: Puskás 529 mérkőzésen játszott klubcsapataiban és 622 gólt szerzett.</li>
     <li>Válogatott: A magyar válogatottban 85 alkalommal lépett pályára és 84 gólt szerzett.</li>
-    <li>íjak: Puskás háromszor nyerte el az aranylabdát, a futball legprestiżsesebb egyéni díját, és számos más elismerésben részesült pályafutása során.</p4></li>
+    <li>íjak: Puskás háromszor nyerte el az aranylabdát, a futball legprestiżsesebb egyéni díját, és számos más elismerésben részesült pályafutása során.</li>
     </ul>
     <h6 style="font-size: 23px;">Gyermekkor, Kispesti AC</h6>
     <p5>Puskás Ferenc apai ágon szegény sváb származású családba született Purczeld Ferenc néven (a dokumentumok szerint április 1-jén, az Uzsoki utcai kórházban, azonban az esetleges április 1-jei tréfák elkerülése végett a születésnapját április 2-án ünnepelte).

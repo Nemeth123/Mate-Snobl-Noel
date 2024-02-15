@@ -27,7 +27,7 @@
     <li>Válogatott: A magyar válogatottban 85 alkalommal lépett pályára és 84 gólt szerzett.</li>
     <li>íjak: Puskás háromszor nyerte el az aranylabdát, a futball legprestiżsesebb egyéni díját, és számos más elismerésben részesült pályafutása során.</li>
     </ul>
-    <h6 style="font-size: 23px;">Gyermekkor, Kispesti AC</h6>
+    <h6 style="font-size: 23px;">Gyermekkor, Kispesti FC</h6>
     <p5>Puskás Ferenc apai ágon szegény sváb származású családba született Purczeld Ferenc néven (a dokumentumok szerint április 1-jén, az Uzsoki utcai kórházban, azonban az esetleges április 1-jei tréfák elkerülése végett a születésnapját április 2-án ünnepelte).
 
       Édesapja, id. Puskás Ferenc (1903–1952) a Kispest FC játékosa volt, majd a Kispesti AC és jogutódja, a Budapesti Honvéd edzőjeként dolgozott. Édesanyja Bíró Margit (1904–1976) varrónő volt. A család 1937-ben magyarosította nevét Purczeldről Puskásra. A családban az anya és a gyerekek már nem beszéltek németül. Korai éveit egy kispesti házban töltötte, 32 felnőtt és 132 gyermek társaságában.
